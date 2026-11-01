@@ -4,4 +4,4 @@ __pycache__/
 node_modules/
 dist/
 backend/.profile_cache.json
-backend/data/*.pdf
+
