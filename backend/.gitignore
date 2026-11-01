@@ -32,3 +32,8 @@ Thumbs.db
 .vscode/
 
 .profile_cache.json
+
+# Private resume files
+backend/data/*.pdf
+backend/data/*.md
+backend/data/*.txt
